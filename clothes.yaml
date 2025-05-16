@@ -1,0 +1,529 @@
+pr:
+  outfit:
+  - "{
+  4::wearing __pr/ccolor__ __pr/ctop__ and __pr/ccolor__ __pr/cbottom__ and __pr/ffwear__ and __pr/hwear__
+  |5::wearing __pr/ccolor__ __pr/ctop__ and __pr/cbottom__ and __pr/ffwear__  __pr/hwear__
+  |2::wearing __pr/ccolor__ __pr/cfullbody__ and __pr/ffwear__ and __pr/hwear__
+  |1::wearing __pr/ccolor__ __pr/ctop__, nude below waist and __pr/ffwear__ __pr/hwear__
+  |1::wearing __pr/ccolor__ __pr/cbottom__, nude above waist and __pr/ffwear__ and __pr/hwear__
+  |1::totally nude with __pr/ffwear__ __pr/hwear__
+  }"
+
+  ccolor:
+  - "{
+  1::black
+  |1::red
+  |1::white
+  |1::yellow
+  |1::orange
+  |1::gray
+  |1::golden
+  |1::silver
+  |1::green
+  |1::blue
+  }"
+  
+  hwear:
+  - "{
+  7::
+  |3::and __pr/hats__
+  }"
+  
+  ctstate:
+  - "{
+  2::with cameltoe
+  |1::.
+  }"
+
+  cvstate:
+  - "{
+  2::with cleavage
+  |1::.
+  }"
+  
+  ffwear:
+    - stiletto heels
+    - platform heels
+    - block heels
+    - high-heeled sandals
+    - peep toe heels
+    - slingback heels
+    - clear heels
+    - glittery pumps
+    - embellished heels
+    - sparkly stilettos
+    - lace-up heels
+    - open toe booties
+    - pointed toe pumps
+    - t-strap heels
+    - kitten heels
+    - high heel sandal boots
+    - metallic heels
+    - beaded sandals
+    - feathered heels
+    - suede booties
+    - velvet pumps
+    - floral heels
+    - faux fur slides
+    - sequin booties
+    - glitter flats
+    - tassel sandals
+    - strappy heeled sandals
+    - pearl-embellished pumps
+    - suede block heels
+    - metallic mules
+    - laser cut booties
+    - embroidered heels
+    - slip-on mules
+    - peep toe booties
+    - bejeweled heels
+    - canvas sneakers
+    - boat shoes
+    - loafers
+    - slip-on sneakers
+    - stiletto heels
+    - peep-toe pumps
+    - ankle strap heels
+    - clear heels
+    - slingback heels
+    - strappy high heels
+    - platform pumps
+    - kitten heels
+    - high top sneakers
+    - over-the-knee boots
+    - high heel boots
+    - stiletto heel boots
+    - lace-up boots
+    - chunky heel boots
+    - mesh sneakers
+    - clear slip-on heels
+    - lace-up slip-on heels
+    - mesh slip-on heels
+    - high heel boots
+    - stiletto heel boots
+    - lace-up boots
+    - chunky heel boots
+    - knee-high boots
+    - over-the-knee boots
+    - embellished knee-high boots
+    - high heel knee-high boots
+    - stiletto heel knee-high boots
+
+  hats:
+    - bandana
+    - baseball cap
+    - beanie
+    - beret
+    - boater hat
+    - bow hairpin
+    - bow headband
+    - bucket hat
+    - cloche hat
+    - top hat
+    - cowboy hat
+    - crystal headband
+    - decorative hair comb
+    - feather hair accessory
+    - fedora hat
+    - floppy hat
+    - flower crown
+    - glittery hair clip
+    - hair chain
+    - hair comb with gems
+    - hair vine
+    - head wrap
+    - headband with beads
+    - headband with bow
+    - headpiece with rhinestones
+    - lace headband
+    - newsboy cap
+    - panama hat
+    - sequined headband
+    - silk flower hair clip
+    - silk scarf as a headband
+    - straw hat
+    - sun visor
+    - tiara
+    - golden crown
+    - silver crown
+    - turban
+    - wide-brim hat
+
+  ctop:
+    - bikini top __pr/cvstate__
+    - chainmail bikini top __pr/cvstate__
+    - halter top __pr/cvstate__
+    - crop top __pr/cvstate__
+    - unbuttoned crop top __pr/cvstate__
+    - tank top __pr/cvstate__
+    - leather skimpy top __pr/cvstate__
+    - tube top __pr/cvstate__
+    - tee shirt __pr/cvstate__
+    - wet tee shirt __pr/cvstate__
+    - sports bra __pr/cvstate__
+    - blouse __pr/cvstate__
+    - unbuttoned blouse __pr/cvstate__
+    - button up shirt __pr/cvstate__
+    - unbuttoned button up shirt __pr/cvstate__
+    - lacy bra __pr/cvstate__
+    - silky bra __pr/cvstate__
+    - lingerie top __pr/cvstate__
+    - bustier __pr/cvstate__
+    - gym top __pr/cvstate__
+    - plate mail bikini top __pr/cvstate__
+    - small towel around tits __pr/cvstate__
+    - thin belt around tits __pr/cvstate__
+    - strap around tits __pr/cvstate__
+    - scarf around tits __pr/cvstate__
+    - sweater
+    - unbuttoned sweater
+    - lace up bustier __pr/cvstate__
+    - unlaced bustier __pr/cvstate__
+    - lace up corset __pr/cvstate__
+    - unlaced corset __pr/cvstate__
+    - bustier __pr/cvstate__
+    - bralette __pr/cvstate__
+    - crop top __pr/cvstate__
+    - lace bra __pr/cvstate__
+    - plunging neckline top __pr/cvstate__
+    - cut-out top __pr/cvstate__
+    - halter top __pr/cvstate__
+    - tube top __pr/cvstate__
+    - off-the-shoulder top __pr/cvstate__
+    - camisole __pr/cvstate__
+    - halterneck bra __pr/cvstate__
+    - backless top __pr/cvstate__
+    - corset top __pr/cvstate__
+    - sheer blouse __pr/cvstate__
+    - open-front bra __pr/cvstate__
+    - mesh top __pr/cvstate__
+    - bra with lace details __pr/cvstate__
+    - keyhole top __pr/cvstate__
+    - wrap-around top __pr/cvstate__
+    - low-cut blouse __pr/cvstate__
+    - strappy bra __pr/cvstate__
+    - one-shoulder top __pr/cvstate__
+    - bra with cut-out details __pr/cvstate__
+    - tie-front blouse __pr/cvstate__
+    - deep v-neck top __pr/cvstate__
+    - bra with see-through panels __pr/cvstate__
+    - bardot top __pr/cvstate__
+    - harness bra __pr/cvstate__
+    - scoop-neck top __pr/cvstate__
+    - ruffled bra __pr/cvstate__
+    - satin cami __pr/cvstate__
+    - peek-a-boo bra __pr/cvstate__
+    - lace halter top __pr/cvstate__
+    - front-tie bralette __pr/cvstate__
+    - cold-shoulder blouse __pr/cvstate__
+    - push-up bra __pr/cvstate__
+    - crochet crop top __pr/cvstate__
+    - turtleneck bodysuit __pr/cvstate__
+    - balconette bra __pr/cvstate__
+    - tied bandeau top __pr/cvstate__
+    - fringe-trimmed bra __pr/cvstate__
+    - corset-style crop top __pr/cvstate__
+    - fishnet camisole __pr/cvstate__
+    - striped bralette __pr/cvstate__
+    - wrap-front blouse __pr/cvstate__
+    - lace-up corset top __pr/cvstate__
+    - cross-back bralette __pr/cvstate__
+    - sequin bustier __pr/cvstate__
+    - plunge bodysuit __pr/cvstate__
+    - velvet bralette __pr/cvstate__
+    - ribbon-tie halter top __pr/cvstate__
+    - babydoll __pr/cvstate__
+    - babydoll set __pr/cvstate__
+    - balconette bra __pr/cvstate__
+    - bandeau bikini top __pr/cvstate__
+    - bodysuit __pr/cvstate__
+    - bra and panty set __pr/cvstate__
+    - bralette __pr/cvstate__
+    - bralette bikini top __pr/cvstate__
+    - bralette bra __pr/cvstate__
+    - bralette set __pr/cvstate__
+    - bustier __pr/cvstate__
+    - cami set __pr/cvstate__
+    - camisole __pr/cvstate__
+    - chemise __pr/cvstate__
+    - chemise set __pr/cvstate__
+    - convertible bra __pr/cvstate__
+    - corset __pr/cvstate__
+    - crop top bikini __pr/cvstate__
+    - crotchless lingerie set __pr/cvstate__
+    - cut-out lingerie set __pr/cvstate__
+    - demi bra __pr/cvstate__
+    - full cup bra __pr/cvstate__
+    - halter bikini top __pr/cvstate__
+    - high neck bikini top __pr/cvstate__
+    - longline bra __pr/cvstate__
+    - minimizer bra __pr/cvstate__
+    - nursing bra __pr/cvstate__
+    - plunge bra __pr/cvstate__
+    - push-up bikini top __pr/cvstate__
+    - push-up bra __pr/cvstate__
+    - racerback bikini top __pr/cvstate__
+    - shelf bra __pr/cvstate__
+    - soft cup bra __pr/cvstate__
+    - sports bra __pr/cvstate__
+    - strapless bra __pr/cvstate__
+    - t-shirt bra __pr/cvstate__
+    - tanga __pr/cvstate__
+    - teddy __pr/cvstate__
+    - triangle bikini top __pr/cvstate__
+    - underwire bikini top __pr/cvstate__
+    - unlined bra __pr/cvstate__
+    - wireless bra __pr/cvstate__
+
+  cbottom:
+    - booty shorts __pr/ctstate__
+    - towel around waist
+    - belt around waist
+    - tiny denim shorts __pr/ctstate__
+    - tiny denim shorts unzipped __pr/ctstate__
+    - cotton panties __pr/ctstate__
+    - lacy panties __pr/ctstate__
+    - sheer panties __pr/ctstate__
+    - thong __pr/ctstate__
+    - short shorts __pr/ctstate__
+    - unbuttoned short shorts __pr/ctstate__
+    - daisy dukes __pr/ctstate__
+    - hot pants __pr/ctstate__
+    - hot pants unlaced __pr/ctstate__
+    - daisy dukes unzipped __pr/ctstate__
+    - gym shorts __pr/ctstate__
+    - pleated mini skirt with panties __pr/ctstate__
+    - tiny skirt with panties __pr/ctstate__
+    - skirt with panties __pr/ctstate__
+    - hoop skirt with panties __pr/ctstate__
+    - poodle skirt with panties __pr/ctstate__
+    - pleated mini skirt no panties
+    - tiny skirt no panties
+    - skirt no panties
+    - hoop skirt no panties
+    - poodle skirt no panties
+    - yoga pants __pr/ctstate__
+    - stockings
+    - fishnet stockings
+    - g-string __pr/ctstate__
+    - jeans __pr/ctstate__
+    - jeans unbuttoned __pr/ctstate__
+    - bikini __pr/ctstate__
+    - briefs __pr/ctstate__
+    - boyshorts __pr/ctstate__
+    - thong __pr/ctstate__
+    - g-string __pr/ctstate__
+    - tanga __pr/ctstate__
+    - high waist panties __pr/ctstate__
+    - low rise panties __pr/ctstate__
+    - lace panties __pr/ctstate__
+    - cotton panties __pr/ctstate__
+    - seamless panties __pr/ctstate__
+    - embroidered panties __pr/ctstate__
+    - printed panties __pr/ctstate__
+    - lace thong __pr/ctstate__
+    - cotton thong __pr/ctstate__
+    - microfiber thong __pr/ctstate__
+    - embroidered thong __pr/ctstate__
+    - printed thong __pr/ctstate__
+    - lace g-string __pr/ctstate__
+    - cotton g-string __pr/ctstate__
+    - microfiber g-string __pr/ctstate__
+    - embroidered g-string __pr/ctstate__
+    - printed g-string __pr/ctstate__
+    - seamless thong __pr/ctstate__
+    - lace tanga __pr/ctstate__
+    - cotton tanga __pr/ctstate__
+    - microfiber tanga __pr/ctstate__
+    - embroidered tanga __pr/ctstate__
+    - printed tanga __pr/ctstate__
+    - seamless tanga __pr/ctstate__
+    - lace cheeky __pr/ctstate__
+    - cotton cheeky __pr/ctstate__
+    - microfiber cheeky __pr/ctstate__
+    - embroidered cheeky __pr/ctstate__
+    - printed cheeky __pr/ctstate__
+    - seamless cheeky __pr/ctstate__
+    - lace hipster __pr/ctstate__
+    - cotton hipster __pr/ctstate__
+    - microfiber hipster __pr/ctstate__
+    - embroidered hipster __pr/ctstate__
+    - printed hipster __pr/ctstate__
+    - seamless hipster __pr/ctstate__
+    - lace high waist panties __pr/ctstate__
+    - cotton high waist panties __pr/ctstate__
+    - microfiber high waist panties __pr/ctstate__
+    - embroidered high waist panties __pr/ctstate__
+    - printed high waist panties __pr/ctstate__
+    - seamless high waist panties __pr/ctstate__
+    - lace low rise panties __pr/ctstate__
+    - cotton low rise panties __pr/ctstate__
+    - microfiber low rise panties __pr/ctstate__
+    - embroidered low rise panties __pr/ctstate__
+    - printed low rise panties __pr/ctstate__
+    - seamless low rise panties __pr/ctstate__
+    - lace bikini __pr/ctstate__
+    - cotton bikini __pr/ctstate__
+    - microfiber bikini __pr/ctstate__
+    - embroidered bikini __pr/ctstate__
+    - printed bikini __pr/ctstate__
+    - seamless bikini __pr/ctstate__
+    - lace boyshorts __pr/ctstate__
+    - cotton boyshorts __pr/ctstate__
+    - microfiber boyshorts __pr/ctstate__
+    - embroidered boyshorts __pr/ctstate__
+    - printed boyshorts __pr/ctstate__
+    - seamless boyshorts __pr/ctstate__
+    - lace embroidered panties __pr/ctstate__
+    - cotton embroidered panties __pr/ctstate__
+    - microfiber embroidered panties __pr/ctstate__
+    - embroidered panties __pr/ctstate__
+    - printed embroidered panties __pr/ctstate__
+    - seamless embroidered panties __pr/ctstate__
+    - beach cover-up
+    - belted shorts __pr/ctstate__
+    - bermuda overalls
+    - bermuda shorts __pr/ctstate__
+    - boyshorts __pr/ctstate__
+    - capri overalls
+    - capri pants __pr/ctstate__
+    - cargo overalls
+    - cargo shorts __pr/ctstate__
+    - cropped linen pants __pr/ctstate__
+    - cropped pants __pr/ctstate__
+    - cropped wide-leg pants __pr/ctstate__
+    - culotte pants __pr/ctstate__
+    - denim shorts __pr/ctstate__
+    - embroidered shorts __pr/ctstate__
+    - g-string __pr/ctstate__
+    - gaucho pants __pr/ctstate__
+    - high-waisted briefs __pr/ctstate__
+    - high-waisted culottes __pr/ctstate__
+    - high-waisted shorts __pr/ctstate__
+    - hipster panties __pr/ctstate__
+    - lace panties __pr/ctstate__
+    - lace shorts __pr/ctstate__
+    - linen culottes __pr/ctstate__
+    - linen pants __pr/ctstate__
+    - linen shorts __pr/ctstate__
+    - lounge pants __pr/ctstate__
+    - lounge shorts __pr/ctstate__
+    - palazzo pants __pr/ctstate__
+    - paperbag waist shorts __pr/ctstate__
+    - pleated culottes __pr/ctstate__
+    - printed shorts __pr/ctstate__
+    - seamless panties __pr/ctstate__
+    - shapewear shorts __pr/ctstate__
+    - shapewear slip
+    - shorts __pr/ctstate__
+    - thong __pr/ctstate__
+    - tie-waist shorts __pr/ctstate__
+    - wide-leg culottes __pr/ctstate__
+    - wide-leg pants __pr/ctstate__
+
+  cfullbody:
+    - tight thin leather bodysuit unzipped __pr/ctstate__ __pr/cvstate__
+    - tight thin leather bodysuit __pr/ctstate__ __pr/cvstate__
+    - tight thin latex bodysuit unzipped __pr/ctstate__ __pr/cvstate__
+    - tight thin latex bodysuit __pr/ctstate__ __pr/cvstate__
+    - formal dress __pr/cvstate__
+    - bikini __pr/ctstate__ __pr/cvstate__
+    - one piece swimsuit __pr/ctstate__ __pr/cvstate__
+    - slingshot swimsuit __pr/ctstate__ __pr/cvstate__
+    - mini dress __pr/cvstate__
+    - strapless dress __pr/cvstate__
+    - robe with panties __pr/ctstate__ __pr/cvstate__
+    - nightgown with panties __pr/ctstate__ __pr/cvstate__
+    - babydoll gown with panties __pr/ctstate__ __pr/cvstate__
+    - negligee with panties __pr/ctstate__ __pr/cvstate__
+    - robe no panties __pr/cvstate__
+    - nightgown no panties __pr/cvstate__
+    - babydoll gown no panties __pr/cvstate__
+    - negligee no panties __pr/cvstate__
+    - sundress with panties __pr/ctstate__ __pr/cvstate__
+    - summer jumpsuit __pr/cvstate__
+    - summer romper __pr/cvstate__
+    - maxi dress with panties __pr/ctstate__ __pr/cvstate__ 
+    - playsuit __pr/cvstate__
+    - summer overalls __pr/cvstate__
+    - kaftan __pr/cvstate__
+    - beach cover-up __pr/cvstate__
+    - summer kimono with panties __pr/ctstate__ __pr/cvstate__
+    - wide-leg jumpsuit __pr/cvstate__
+    - wrap dress with panties __pr/ctstate__ __pr/cvstate__
+    - tank romper __pr/cvstate__
+    - midi dress with panties __pr/ctstate__ __pr/cvstate__
+    - halterneck playsuit __pr/cvstate__
+    - strapless jumpsuit __pr/cvstate__
+    - shirt dress __pr/cvstate__
+    - bermuda overalls __pr/cvstate__
+    - tunic dress with panties __pr/ctstate__ __pr/cvstate__
+    - culotte jumpsuit __pr/cvstate__
+    - off-the-shoulder romper __pr/cvstate__
+    - slip dress __pr/cvstate__
+    - boho maxi dress with panties __pr/ctstate__ __pr/cvstate__
+    - denim jumpsuit __pr/cvstate__
+    - pinafore dress with panties __pr/ctstate__ __pr/cvstate__
+    - palazzo jumpsuit __pr/cvstate__
+    - ruffle romper __pr/cvstate__
+    - tiered maxi dress with panties __pr/ctstate__ __pr/cvstate__
+    - linen jumpsuit __pr/cvstate__
+    - overall dress __pr/cvstate__
+    - peasant dress with panties __pr/ctstate__ __pr/cvstate__
+    - gaucho jumpsuit __pr/cvstate__
+    - smocked romper __pr/cvstate__
+    - high-low hem dress with panties __pr/ctstate__ __pr/cvstate__
+    - harem jumpsuit __pr/cvstate__
+    - kimono dress with panties __pr/ctstate__ __pr/cvstate__
+    - capri overalls __pr/cvstate__
+    - asymmetrical dress with panties __pr/ctstate__ __pr/cvstate__
+    - sleeveless jumpsuit __pr/cvstate__
+    - empire waist maxi dress with panties __pr/ctstate__ __pr/cvstate__
+    - button-front romper __pr/cvstate__
+    - bohemian kaftan __pr/cvstate__
+    - cargo overalls __pr/cvstate__
+    - flounce hem dress with panties __pr/ctstate__ __pr/cvstate__
+    - culotte romper __pr/cvstate__
+    - wrap jumpsuit __pr/cvstate__
+    - sheath dress with panties __pr/ctstate__ __pr/cvstate__
+    - spaghetti strap playsuit __pr/cvstate__
+    - tiered romper __pr/cvstate__
+    - a-line maxi dress with panties __pr/ctstate__ __pr/cvstate__
+
+  ctopf:
+    - chainmail bikini top __pr/cvstate__, midriff exposed
+    - leather armor bikini top __pr/cvstate__, midriff exposed
+    - cloth armor bikini top __pr/cvstate__, midriff exposed
+    - plate mail bikini top __pr/cvstate__, midriff exposed
+    - full chainmail shirt __pr/cvstate__
+    - full leather armor top __pr/cvstate__
+    - full cloth armor top __pr/cvstate__
+    - full plate mail top __pr/cvstate__
+    - tight thin leather bikini top __pr/cvstate__, midriff exposed
+    - tight thin leather shirt __pr/cvstate__
+
+  cbottomf:
+    - chainmail skirt with panties, legs exposed __pr/ctstate__
+    - leather armor skirt with panties, legs exposed __pr/ctstate__
+    - cloth armor skirt with panties, legs exposed __pr/ctstate__
+    - plate mail skirt with panties, legs exposed __pr/ctstate__
+    - chainmail skirt no panties, legs exposed
+    - leather armor skirt no panties, legs exposed
+    - cloth armor skirt no panties, legs exposed
+    - plate mail skirt no panties, legs exposed
+    - chainmail pants
+    - leather lower body armor
+    - cloth armor pants
+    - plate mail lower body armor
+    - short leather skirt with panties, __pr/ctstate__
+    - short leather skirt no panties
+    - short tight leather shorts __pr/ctstate__
+    - tight thin leather long pants __pr/ctstate__
+
+  cfullbodyf:
+    - chainmail hauberk
+    - full body leather armor
+    - full body cloth armor
+    - full plate armor
+    - tight thin leather bodysuit __pr/ctstate__ __pr/cvstate__
+    - tight thin latex bodysuit __pr/ctstate__ __pr/cvstate__

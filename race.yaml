@@ -1,0 +1,106 @@
+pr:
+  racehuman:
+  - "{
+  21::White human
+  |10::Black Human, ((dark skin))
+  |10::Asian Human
+  |10::Hispanic Human, ((brown skin))
+  }"
+
+  raceelf:
+  - "{
+  6::Wood Elf, long pointy elf ears
+  |3::High Elf, long pointy elf ears
+  |4::Dark Elf, long pointy elf ears, ((dark skin))
+  |9::Half Elf, long pointy elf ears
+  |2::Half Dark Elf, long pointy elf ears, ((tan skin))
+  |1::Faerie, ((very short--12 inches tall)), long pointy elf ears, ((gossamer fairy wings))
+  |1::Dark Faerie, ((very short--12 inches tall)), long pointy elf ears, ((gossamer fairy wings)), ((dark skin))
+  }"
+  
+  racedemon:
+  - "{
+  6::Succubus, long pointy ears, demonic horns, demonic wings, demonic tail
+  |3::Dark Succubus, ((dark skin)), long pointy ears, demonic horns, demonic wings, demonic tail
+  |3::Red Succubus, ((red skin)), long pointy ears, demonic horns, demonic wings, demonic tail
+  }"
+
+  racedemi:
+  - "{
+  4::Hobbit, (very short--3.5 feet tall), short pointy ears
+  |3::Gnome, (short--4 feet tall), short pointy ears)
+  |3::Dwarf, stocky, short pointy ears
+  |3::Goblin, (short--5 feet tall), short pointy ears
+  |3::Orc, green skin, short pointy ears
+  |3::Kobold, green skin, (very short--4 feet tall), short pointy ears
+  |1::Gnoll
+  |1::Lizard folk, (Tall--7 feet tall), (__pr/lizcolor__ scaly skin)
+  }"
+
+  racebeast:
+  - "{
+  1::Kitsune, furry fox ears, fox tail
+  |3::Cat girl, furry cat ears, cat tail
+  |3::Bunny girl, furry bunny ears, bunny tail
+  |3::Tiger girl, furry tiger ears, tiger tail
+  |2::Lion girl, furry lion ears, lion tail
+  |1::White tiger girl, furry white tiger ears, white tiger tail
+  |2::Cheetah girl, furry cheetah ears, cheetah tail
+  |2::Leopard girl, furry leopard ears, leopard tail
+  |2::Puma girl, furry puma ears, puma tail
+  |2::Lynx girl, furry lynx ears, lynx tail
+  |2::Cougar girl, furry cougar ears, cougar tail
+  |1::Dog girl, furry dog ears, dog tail
+  |1::Pig girl, pig ears, pig tail
+  |1::Cow girl, furry cow ears, cow tail
+  |1::Horse girl, furry horse ears, horse tail
+  |1::Zebra girl, furry zebra ears, zebra tail
+  |1::Lamb girl, furry lamb ears, lamb tail
+  |1::Mouse girl, furry mouse ears, mouse tail
+  |1::Squirrel girl, furry squirrel ears, squirrel tail
+  |1::Chipmunk girl, furry chipmunk ears, chipmunk tail
+  |1::Raccoon girl, furry raccoon ears, raccoon tail
+  |1::Deer girl, furry deer ears, deer tail
+  |1::Bat girl, furry bat ears, bat tail, ((dark skin))
+  |1::Wolf girl, furry wolf ears, wolf tail
+  |1::Skunk girl, furry skunk ears, skunk tail
+  |1::Bear girl, furry bear ears, bear tail, ((dark skin))
+  |1::Giraffe girl, furry giraffe ears, giraffe tail
+  |1::Pony girl, furry pony ears, pony tail
+  }"
+
+  raceother:
+  - "{
+  1::Troll, (Tall and skinny--8 feet tall), green skin, ((very tall))
+  |1::Ogre, (Tall and stocky--9 feet tall), (__pr/ogrecolor__ skin)
+  |1::Dryad, short pointy ears
+  |1::Djinn
+  |1::Minotaur, (Tall--7 feet tall), (minotaur horns), (large axe)
+  |1::Giantess, ((extremely tall--15 feet tall)), (war hammer)
+  }"
+
+  lizcolor:
+  - "{
+  1::green
+  |1::brown
+  }"
+  
+  ogrecolor:
+  - "{
+  4::green
+  |4::brown
+  |3::yellow
+  |1::purple
+  }"
+  
+  rpclass1:
+  - "{
+  4::fighter
+  |2::paladin
+  |4::mage
+  |2::enchantress
+  |4::thief
+  |2::assassin
+  |4::priest
+  |2::bard
+  }"

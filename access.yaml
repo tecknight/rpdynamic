@@ -1,0 +1,137 @@
+pr:
+  worncom:
+    - necklace
+    - ring
+    - choker
+    - bracelet
+    - belly chain
+    - ankle bracelet
+    - hair clip
+    - earrings
+    - wire rim glasses
+    - nerd glasses
+    - sunglasses
+    - tattoos
+    - full body tattoo
+    - goggles
+    - ribbon in hair
+    - gloves
+    - flowers in hair
+    - slave collar
+    - pasties
+
+  heldcom:
+    - small dog
+    - small cat
+    - ferret
+    - purse
+    - umbrella
+    - book
+    - pen
+    - pencil
+    - notebook
+    - binder
+    - sword
+    - bow
+    - club
+    - dagger
+    - hankerchief
+    - cup
+    - bowl
+    - plate
+    - whip
+    - hand cuffs
+    - crossbow
+    - large dildo
+    - condom
+    - hamburger
+    - sub sandwich
+    - hot dog
+    - corn dog
+    - apple
+    - banana
+    - carrot
+    - cucumber
+    - pickle
+    - cotton candy
+    - soda
+    - smoothie
+    - coffee
+    - pizza
+    - football
+    - basketball
+    - baseball
+    - baseball bat
+    - hockey stick
+    - beer
+    - wine
+    - whiskey flask
+    - lit cigarette
+    - lit cigar
+    - tobacco pipe
+    - screwdriver
+    - wrench
+    - hammer
+    - stapler
+    - homework
+    - ruler
+    - crutches
+    - walking stick
+
+  heldmag:
+    - wand
+    - staff
+    - spell scroll
+    - potion
+    - spell book
+    - magic sword
+    - familiar
+    - magic gems
+
+  wornmag:
+    - magic ring
+    - magic necklace
+    - magic bracers
+    - magic belt
+    - magic armor
+
+  worntech:
+    - headphones
+    - tech watch
+    - camera glasses
+
+  heldtech:
+    - cell phone
+    - portable gaming pc
+    - camera
+    - tablet
+    - chainsaw
+    - cordless drill
+    - shotgun
+    - pistol 
+    - rocket launcher
+    - large vibrator
+    - batteries
+    - game controller
+    - laptop
+    - mouse
+    - calculator
+
+  heldfantasy:
+  - "{
+  1::wielding sword
+  |1::wielding bow
+  |1::wielding crossbow
+  |1::wielding battle axe
+  |1::wielding morning star
+  |1::wielding great sword
+  |1::wielding magical staff
+  |1::wielding magical wand
+  }"
+
+  acc:
+  - "{
+  4::.
+  |2::(wearing __pr/worn*__)
+  |2::((holding __pr/held*__))
+  }"
