@@ -92,11 +92,12 @@ pr:
   
   fromdir:
   - "{
-  5::from front
+  3::from front, pussy focus
+  |2::from front, tits focus
   |1::3/4 view
   |1::from left side
   |1::from right side
-  |2::from behind ass focus
+  |2::from behind, ass focus
   }"
   
   edesc:
@@ -145,8 +146,6 @@ pr:
   |1::looking away
   |1::((front side back three views))
   }"
-  
-
     
   ccdesc:
   - "{
@@ -260,7 +259,7 @@ pr:
   
   egirl:
   - "{
-  4::__pr/gname__, __pr/race*__, __pr/phys__, __pr/nipstate__, __pr/outfit__, __pr/acc__, __pr/expr__, 
+  4::__pr/gname__, __pr/race*__, __pr/phys__, __pr/nipstate__, __pr/wearing__, __pr/acc__, __pr/expr__, 
   }"
   
   

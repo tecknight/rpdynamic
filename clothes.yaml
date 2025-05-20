@@ -1,11 +1,11 @@
 pr:
-  outfit:
+  wearing:
   - "{
-  4::wearing __pr/ccolor__ __pr/ctop__ and __pr/ccolor__ __pr/cbottom__ and __pr/ffwear__ and __pr/hwear__
-  |5::wearing __pr/ccolor__ __pr/ctop__ and __pr/cbottom__ and __pr/ffwear__  __pr/hwear__
-  |2::wearing __pr/ccolor__ __pr/cfullbody__ and __pr/ffwear__ and __pr/hwear__
-  |1::wearing __pr/ccolor__ __pr/ctop__, nude below waist and __pr/ffwear__ __pr/hwear__
-  |1::wearing __pr/ccolor__ __pr/cbottom__, nude above waist and __pr/ffwear__ and __pr/hwear__
+  4::wearing __pr/ccolor__ __pr/ctop__ and __pr/ccolor__ __pr/cbottom__ __pr/ffwear__ __pr/hwear__
+  |5::wearing __pr/ccolor__ __pr/ctop__ and __pr/cbottom__ __pr/ffwear__  __pr/hwear__
+  |2::wearing __pr/ccolor__ __pr/cfullbody__ __pr/ffwear__ __pr/hwear__
+  |1::wearing __pr/ccolor__ __pr/ctop__, nude below waist __pr/ffwear__ __pr/hwear__
+  |1::wearing __pr/ccolor__ __pr/cbottom__, nude above waist __pr/ffwear__ __pr/hwear__
   |1::totally nude with __pr/ffwear__ __pr/hwear__
   }"
 
@@ -25,8 +25,8 @@ pr:
   
   hwear:
   - "{
-  7::
-  |3::and __pr/hats__
+  7::.
+  |3::__pr/hats__
   }"
   
   ctstate:
@@ -42,112 +42,112 @@ pr:
   }"
   
   ffwear:
-    - stiletto heels
-    - platform heels
-    - block heels
-    - high-heeled sandals
-    - peep toe heels
-    - slingback heels
-    - clear heels
-    - glittery pumps
-    - embellished heels
-    - sparkly stilettos
-    - lace-up heels
-    - open toe booties
-    - pointed toe pumps
-    - t-strap heels
-    - kitten heels
-    - high heel sandal boots
-    - metallic heels
-    - beaded sandals
-    - feathered heels
-    - suede booties
-    - velvet pumps
-    - floral heels
-    - faux fur slides
-    - sequin booties
-    - glitter flats
-    - tassel sandals
-    - strappy heeled sandals
-    - pearl-embellished pumps
-    - suede block heels
-    - metallic mules
-    - laser cut booties
-    - embroidered heels
-    - slip-on mules
-    - peep toe booties
-    - bejeweled heels
-    - canvas sneakers
-    - boat shoes
-    - loafers
-    - slip-on sneakers
-    - stiletto heels
-    - peep-toe pumps
-    - ankle strap heels
-    - clear heels
-    - slingback heels
-    - strappy high heels
-    - platform pumps
-    - kitten heels
-    - high top sneakers
-    - over-the-knee boots
-    - high heel boots
-    - stiletto heel boots
-    - lace-up boots
-    - chunky heel boots
-    - mesh sneakers
-    - clear slip-on heels
-    - lace-up slip-on heels
-    - mesh slip-on heels
-    - high heel boots
-    - stiletto heel boots
-    - lace-up boots
-    - chunky heel boots
-    - knee-high boots
-    - over-the-knee boots
-    - embellished knee-high boots
-    - high heel knee-high boots
-    - stiletto heel knee-high boots
+    - and stiletto heels
+    - and platform heels
+    - and block heels
+    - and high-heeled sandals
+    - and peep toe heels
+    - and slingback heels
+    - and clear heels
+    - and glittery pumps
+    - and embellished heels
+    - and sparkly stilettos
+    - and lace-up heels
+    - and open toe booties
+    - and pointed toe pumps
+    - and t-strap heels
+    - and kitten heels
+    - and high heel sandal boots
+    - and metallic heels
+    - and beaded sandals
+    - and feathered heels
+    - and suede booties
+    - and velvet pumps
+    - and floral heels
+    - and faux fur slides
+    - and sequin booties
+    - and glitter flats
+    - and tassel sandals
+    - and strappy heeled sandals
+    - and pearl-embellished pumps
+    - and suede block heels
+    - and metallic mules
+    - and laser cut booties
+    - and embroidered heels
+    - and slip-on mules
+    - and peep toe booties
+    - and bejeweled heels
+    - and canvas sneakers
+    - and boat shoes
+    - and loafers
+    - and slip-on sneakers
+    - and stiletto heels
+    - and peep-toe pumps
+    - and ankle strap heels
+    - and clear heels
+    - and slingback heels
+    - and strappy high heels
+    - and platform pumps
+    - and kitten heels
+    - and high top sneakers
+    - and over-the-knee boots
+    - and high heel boots
+    - and stiletto heel boots
+    - and lace-up boots
+    - and chunky heel boots
+    - and mesh sneakers
+    - and clear slip-on heels
+    - and lace-up slip-on heels
+    - and mesh slip-on heels
+    - and high heel boots
+    - and stiletto heel boots
+    - and lace-up boots
+    - and chunky heel boots
+    - and knee-high boots
+    - and over-the-knee boots
+    - and embellished knee-high boots
+    - and high heel knee-high boots
+    - and stiletto heel knee-high boots
 
   hats:
-    - bandana
-    - baseball cap
-    - beanie
-    - beret
-    - boater hat
-    - bow hairpin
-    - bow headband
-    - bucket hat
-    - cloche hat
-    - top hat
-    - cowboy hat
-    - crystal headband
-    - decorative hair comb
-    - feather hair accessory
-    - fedora hat
-    - floppy hat
-    - flower crown
-    - glittery hair clip
-    - hair chain
-    - hair comb with gems
-    - hair vine
-    - head wrap
-    - headband with beads
-    - headband with bow
-    - headpiece with rhinestones
-    - lace headband
-    - newsboy cap
-    - panama hat
-    - sequined headband
-    - silk flower hair clip
-    - silk scarf as a headband
-    - straw hat
-    - sun visor
-    - tiara
-    - golden crown
-    - silver crown
-    - turban
-    - wide-brim hat
+    - and bandana
+    - and baseball cap
+    - and beanie
+    - and beret
+    - and boater hat
+    - and bow hairpin
+    - and bow headband
+    - and bucket hat
+    - and cloche hat
+    - and top hat
+    - and cowboy hat
+    - and crystal headband
+    - and decorative hair comb
+    - and feather hair accessory
+    - and fedora hat
+    - and floppy hat
+    - and flower crown
+    - and glittery hair clip
+    - and hair chain
+    - and hair comb with gems
+    - and hair vine
+    - and head wrap
+    - and headband with beads
+    - and headband with bow
+    - and headpiece with rhinestones
+    - and lace headband
+    - and newsboy cap
+    - and panama hat
+    - and sequined headband
+    - and silk flower hair clip
+    - and silk scarf as a headband
+    - and straw hat
+    - and sun visor
+    - and tiara
+    - and golden crown
+    - and silver crown
+    - and turban
+    - and wide-brim hat
 
   ctop:
     - bikini top __pr/cvstate__
